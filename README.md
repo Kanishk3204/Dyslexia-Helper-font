@@ -1,6 +1,6 @@
 ***Dyslexia Helper***
 
-**Some of the Design Decisions and there justifications are:- **
+Some of the Design Decisions and there justifications are:- 
 
 1.	Increased Word Spacing:- The space character width was increased to provide more separation between words.
 
